@@ -46,7 +46,7 @@ VALUES
   ('Patrick', 33, '2017-01-06' ,4),
   ('Vivian', 26, '2018-01-05' ,2),
   ('Carol', 19, '2018-02-14' ,2),
-  ('Angelica', 42, '2018-04-29' ,4),
+  ('Angelina', 42, '2018-04-29' ,4),
   ('Paul', 45, '2017-01-17' ,4);
   
 CREATE TABLE SpotifyClone.Album(
