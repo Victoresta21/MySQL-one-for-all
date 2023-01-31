@@ -15,7 +15,8 @@ Eu irei focar em alterar os README's deste e de outros projetos apos terminar de
 
 
 
-_______________________________________________________________________________________________________________### Termos e acordos
+_______________________________________________________________________________________________________________
+### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
 
