@@ -1,6 +1,6 @@
 
 _______________________________________________________________________________________________________________
-Este README ainda esta esta em desenvolvimento, a maiorias das coisas nele precisam ser mudadas.
+# Este README ainda esta esta em desenvolvimento, a maiorias das coisas nele precisam ser mudadas.
 
 
 
